@@ -2,7 +2,7 @@ Docker Implementation
 
 This repository contains two applications that demonstrate containerization using Docker and Docker Compose.
 
-Applications
+Applications:
 
 1. Book Reading List
    
